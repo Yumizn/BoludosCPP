@@ -21,6 +21,6 @@ void argentina()
 	std::cout << "rushear es la forma correcta de ganar!" << std::endl;
 	std::cout << "Cuanto antes llegues a la casa segura,mayor será la garantía de ganar el juego" << std::endl;
 	std::cout << "argentino vive en un pais en bancarrota donde 99999999 pesos no valen 1 real" << std::endl;
-	std::cout << "A los tramposos no los expulsas y por eso siempre pierdes y cuando ganas no hay gloria ni honor, eres más perdedor que los que consideras amasar" << std::endl;
+	std::cout << "A los tramposos no los expulsas y por eso siempre pierdes y cuando ganas no hay gloria ni honor" << std::endl;
 }
 
