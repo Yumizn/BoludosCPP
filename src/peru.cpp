@@ -18,6 +18,7 @@ void peru()
 {
 	std::cout << "Hola Manco de mierda" << std::endl;
 	std::cout << "Tu pais tiene nombre de organ sexuale" << std::endl;
-	std::cout << "En 15 anos de Left 4 Dead aun no han aprendido a jugar" << std::endl;	
+	std::cout << "En 15 anos de Left 4 Dead aun no han aprendido a jugar" << std::endl;
+	std::cout << "No eres peor que los argentinos porque eres menos toxico que ellos" << std::endl;
 }
 
