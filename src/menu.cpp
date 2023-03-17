@@ -6,6 +6,7 @@
 #include "menu.hpp"
 #include "argentina.hpp"
 #include "peru.hpp"
+#include "brasil.hpp"
 
 #ifdef _WIN32
 #define WINDOWS_SYSTEM
