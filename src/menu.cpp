@@ -48,6 +48,8 @@ void menu()
 	case 2:
 	peru();
 	
+	case 3:
+	brasil();
 	
 	default:
 	menu();
