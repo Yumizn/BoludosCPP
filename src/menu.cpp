@@ -32,11 +32,11 @@ void menu()
 {
 	    
 	//Step 1 - Sign up for Monkey!
-	std::cout << "Whats your name?: " << std::endl << std::endl;
+	std::cout << "Whats your name?: " << std::endl;
 	std::cin >> name;
-	std::cout << "Where are your country?: " << std::endl << std::endl;
-	std::cout << "Write 1 for Argentina" << std::endl << std::endl;
-	std::cout << "Write 2 for Peru" << std::endl << std::endl;
+	std::cout << "Where are your country?: " << std::endl;
+	std::cout << "Write 1 for Argentina" << std::endl;
+	std::cout << "Write 2 for Peru" << std::endl;
 	std::cin >> local;
 	
 	//Step 3 - Switching a Countries Conditions
