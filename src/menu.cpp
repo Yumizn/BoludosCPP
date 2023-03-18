@@ -37,6 +37,7 @@ void menu()
 	std::cout << "Where are your country?: " << std::endl;
 	std::cout << "Write 1 for Argentina" << std::endl;
 	std::cout << "Write 2 for Peru" << std::endl;
+	std::cout << "Write 3 for Brasil" << std::endl;
 	std::cin >> local;
 	
 	//Step 3 - Switching a Countries Conditions
