@@ -45,10 +45,10 @@ void menu()
 	//Step 3 - Switching a Countries Conditions
 	switch (local)
 	{
+	
 	case 1:
 	argentina();
-	
-	
+		
 	case 2:
 	peru();
 	
