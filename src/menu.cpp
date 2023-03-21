@@ -38,6 +38,7 @@ void menu()
 	std::cout << "Write 1 for Argentina" << std::endl;
 	std::cout << "Write 2 for Peru" << std::endl;
 	std::cout << "Write 3 for Brasil" << std::endl;
+	std::cout << "Write 4 for Chile" << std::endl;
 	std::cin >> local;
 	
 	//Step 3 - Switching a Countries Conditions
@@ -52,7 +53,10 @@ void menu()
 	
 	case 3:
 	brasil();
-	
+		
+	case 4:
+	chile();
+			
 	default:
 	menu();
     }
