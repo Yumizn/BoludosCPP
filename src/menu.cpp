@@ -7,6 +7,7 @@
 #include "argentina.hpp"
 #include "peru.hpp"
 #include "brasil.hpp"
+#include "chile.hpp"
 
 #ifdef _WIN32
 #define WINDOWS_SYSTEM
